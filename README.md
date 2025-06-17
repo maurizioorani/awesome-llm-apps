@@ -13,11 +13,23 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Keep these links. Translations will automatically update with the README. -->
+  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=de">Deutsch</a> | 
+  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=es">Español</a> | 
+  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=fr">français</a> | 
+  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ja">日本語</a> | 
+  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ko">한국어</a> | 
+  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=pt">Português</a> | 
+  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ru">Русский</a> | 
+  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=zh">中文</a>
+</p>
+
 <hr/>
 
 # 🌟 Awesome LLM Apps
 
-A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
+A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
 
 <p align="center">
   <a href="https://trendshift.io/repositories/9876" target="_blank">
@@ -28,26 +40,14 @@ A curated collection of awesome LLM apps built with RAG and AI agents. This repo
 ## 🤔 Why Awesome LLM Apps?
 
 - 💡 Discover practical and creative ways LLMs can be applied across different domains, from code repositories to email inboxes and more.
-- 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with RAG and AI Agents.
+- 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with AI Agents, Agent Teams, MCP & RAG.
 - 🎓 Learn from well-documented projects and contribute to the growing open-source ecosystem of LLM-powered applications.
-
-## 🚨 Open Source AI Agent Hackathon
-
-We're launching a Global AI Agent Hackathon in collaboration with AI Agent ecosystem partners — open to all developers, builders, and startups working on agents, RAG, tool use, or multi-agent systems.
-
-- Win up to **$25,000** in cash by building Agents
-- Top 5 projects will be featured in the top trending [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) repo.
-- **$20,000** worth of API and tool use credits from the partners
-
-### Participate Now: [Global AI Agent Hackathon](https://github.com/global-agent-hackathon/global-agent-hackathon-may-2025)
-
-⭐ Star this repo and subscribe to [Unwind AI](https://www.theunwindai.com) for latest updates.
 
 ## 📂 Featured AI Projects
 
 ### AI Agents
 
-#### 🌱 Starter AI Agents
+### 🌱 Starter AI Agents
 
 *   [🎙️ AI Blog to Podcast Agent](starter_ai_agents/ai_blog_to_podcast_agent/)
 *   [❤️‍🩹 AI Breakup Recovery Agent](starter_ai_agents/ai_breakup_recovery_agent/)
@@ -63,27 +63,28 @@ We're launching a Global AI Agent Hackathon in collaboration with AI Agent ecosy
 *   [🔍 OpenAI Research Agent](starter_ai_agents/opeani_research_agent/)
 *   [🕸️ Web Scrapping AI Agent (Local & Cloud)](starter_ai_agents/web_scrapping_ai_agent/)
 
-#### 🚀 Advanced AI Agents
+### 🚀 Advanced AI Agents
 
 *   [🔍 AI Deep Research Agent](advanced_ai_agents/single_agent_apps/ai_deep_research_agent/)
 *   [🏗️ AI System Architect Agent](advanced_ai_agents/single_agent_apps/ai_system_architect_r1/)
 *   [🎯 AI Lead Generation Agent](advanced_ai_agents/single_agent_apps/ai_lead_generation_agent/)
 *   [💰 AI Financial Coach Agent](advanced_ai_agents/multi_agent_apps/ai_financial_coach_agent/)
 *   [🎬 AI Movie Production Agent](advanced_ai_agents/single_agent_apps/ai_movie_production_agent/)
-*   [🏠 AI Real Estate Agent](advanced_ai_agents/single_agent_apps/ai_real_estate_agent/)
 *   [📈 AI Investment Agent](advanced_ai_agents/single_agent_apps/ai_investment_agent/)
 *   [🏋️‍♂️ AI Health & Fitness Agent](advanced_ai_agents/single_agent_apps/ai_health_fitness_agent/)
+*   [🚀 AI Product Launch Intelligence Agent](advanced_ai_agents/multi_agent_apps/product_launch_intelligence_agent)
 *   [🗞️ AI Journalist Agent](advanced_ai_agents/single_agent_apps/ai_journalist_agent/)
 *   [🧠 AI Mental Wellbeing Agent](advanced_ai_agents/multi_agent_apps/ai_mental_wellbeing_agent/)
 *   [📑 AI Meeting Agent](advanced_ai_agents/single_agent_apps/ai_meeting_agent/)
+*   [🧬 AI Self-Evolving Agent](advanced_ai_agents/multi_agent_apps/ai_Self-Evolving_agent/)
 
-#### 🎮 Autonomous Game Playing Agents
+### 🎮 Autonomous Game Playing Agents
 
 *   [🎮 AI 3D Pygame Agent](advanced_ai_agents/autonomous_game_playing_agent_apps/ai_3dpygame_r1/)
 *   [♜ AI Chess Agent](advanced_ai_agents/autonomous_game_playing_agent_apps/ai_chess_agent/)
 *   [🎲 AI Tic-Tac-Toe Agent](advanced_ai_agents/autonomous_game_playing_agent_apps/ai_tic_tac_toe_agent/)
 
-#### 🤝 Multi-agent Teams
+### 🤝 Multi-agent Teams
 
 *   [🧲 AI Competitor Intelligence Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/ai_competitor_intelligence_agent_team/)
 *   [💲 AI Finance Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/ai_finance_agent_team/)
@@ -104,12 +105,14 @@ We're launching a Global AI Agent Hackathon in collaboration with AI Agent ecosy
 
 ### 🌐 MCP AI Agents
 
-*   [♾️ MCP Browser Agent](mcp_ai_agents/browser_mcp_agent/)
-*   [🐙 MCP GitHub Agent](mcp_ai_agents/github_mcp_agent/)
+*   [♾️ Browser MCP Agent](mcp_ai_agents/browser_mcp_agent/)
+*   [🐙 GitHub MCP Agent](mcp_ai_agents/github_mcp_agent/)
+*   [📑 Notion MCP Agent](mcp_ai_agents/notion_mcp_agent) 
+*   [🌍 AI Travel Planner MCP Agent](mcp_ai_agents/ai_travel_planner_mcp_agent_team)
 
-
-### RAG (Retrieval Augmented Generation)
+### 📀 RAG (Retrieval Augmented Generation)
 *   [🔗 Agentic RAG](rag_tutorials/agentic_rag/)
+*   [🧐 Agentic RAG with Reasoning](rag_tutorials/agentic_rag_with_reasoning/)
 *   [📰 AI Blog Search (RAG)](rag_tutorials/ai_blog_search/)
 *   [🔍 Autonomous RAG](rag_tutorials/autonomous_rag/)
 *   [🔄 Corrective RAG (CRAG)](rag_tutorials/corrective_rag/)
@@ -125,22 +128,7 @@ We're launching a Global AI Agent Hackathon in collaboration with AI Agent ecosy
 *   [📠 RAG with Database Routing](rag_tutorials/rag_database_routing/)
 *   [🖼️ Vision RAG](rag_tutorials/vision_rag/)
 
-### MCP AI Agents
-- [🐙 MCP GitHub Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/github_mcp_agent)
-- [♾️ MCP Browser Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/browser_mcp_agent)
-
-### 🧠 Advanced LLM Apps
-
-#### 💬 Chat with X Tutorials
-
-*   [💬 Chat with GitHub (GPT & Llama3)](advanced_llm_apps/chat_with_X_tutorials/chat_with_github/)
-*   [📨 Chat with Gmail](advanced_llm_apps/chat_with_X_tutorials/chat_with_gmail/)
-*   [📄 Chat with PDF (GPT & Llama3)](advanced_llm_apps/chat_with_X_tutorials/chat_with_pdf/)
-*   [📚 Chat with Research Papers (ArXiv) (GPT & Llama3)](advanced_llm_apps/chat_with_X_tutorials/chat_with_research_papers/)
-*   [📝 Chat with Substack](advanced_llm_apps/chat_with_X_tutorials/chat_with_substack/)
-*   [📽️ Chat with YouTube Videos](advanced_llm_apps/chat_with_X_tutorials/chat_with_youtube_videos/)
-
-#### 💾 LLM Apps with Memory Tutorials
+### 💾 LLM Apps with Memory Tutorials
 
 *   [💾 AI ArXiv Agent with Memory](advanced_llm_apps/llm_apps_with_memory_tutorials/ai_arxiv_agent_memory/)
 *   [🛩️ AI Travel Agent with Memory](advanced_llm_apps/llm_apps_with_memory_tutorials/ai_travel_agent_memory/)
@@ -149,7 +137,17 @@ We're launching a Global AI Agent Hackathon in collaboration with AI Agent ecosy
 *   [🗄️ Local ChatGPT Clone with Memory](advanced_llm_apps/llm_apps_with_memory_tutorials/local_chatgpt_with_memory/)
 *   [🧠 Multi-LLM Application with Shared Memory](advanced_llm_apps/llm_apps_with_memory_tutorials/multi_llm_memory/)
 
-#### 🔧 LLM Fine-tuning Tutorials
+
+### 💬 Chat with X Tutorials
+
+*   [💬 Chat with GitHub (GPT & Llama3)](advanced_llm_apps/chat_with_X_tutorials/chat_with_github/)
+*   [📨 Chat with Gmail](advanced_llm_apps/chat_with_X_tutorials/chat_with_gmail/)
+*   [📄 Chat with PDF (GPT & Llama3)](advanced_llm_apps/chat_with_X_tutorials/chat_with_pdf/)
+*   [📚 Chat with Research Papers (ArXiv) (GPT & Llama3)](advanced_llm_apps/chat_with_X_tutorials/chat_with_research_papers/)
+*   [📝 Chat with Substack](advanced_llm_apps/chat_with_X_tutorials/chat_with_substack/)
+*   [📽️ Chat with YouTube Videos](advanced_llm_apps/chat_with_X_tutorials/chat_with_youtube_videos/)
+
+### 🔧 LLM Fine-tuning Tutorials
 
 *   [🔧 Llama 3.2 Fine-tuning](advanced_llm_apps/llm_finetuning_tutorials/llama3.2_finetuning/)
 
